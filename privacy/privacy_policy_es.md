@@ -1,6 +1,6 @@
 # Política de Privacidad — BabyCare+
 
-**Última actualización:** 28 de abril de 2026
+**Última actualización:** 12 de septiembre de 2026
 
 Esta Política de Privacidad describe cómo la aplicación **BabyCare+** ("nosotros", "la app") recopila, utiliza y protege la información de los usuarios. Al instalar y utilizar la app, usted acepta las prácticas descritas en este documento.
 
@@ -18,6 +18,8 @@ Esta Política de Privacidad describe cómo la aplicación **BabyCare+** ("nosot
 ## 2. Edad mínima
 
 BabyCare+ está destinada exclusivamente a **adultos mayores de 18 años** (padres, madres o cuidadores). La app **no está destinada a ser utilizada por niños**. No recopilamos intencionalmente datos de menores de 18 años.
+
+En particular, no nos dirigimos a menores de 13 años y no recopilamos intencionalmente datos personales de menores de 13 años. Si tomamos conocimiento de que hemos recopilado datos personales de un menor de 13 años sin verificación del consentimiento parental, tomaremos medidas para eliminar esa información de nuestros servidores.
 
 ---
 
