@@ -8,6 +8,12 @@ App Android de cuidado infantil. Esta página agrega os documentos legais nos id
 - 🇬🇧 [English](privacy/privacy_policy_en.html)
 - 🇪🇸 [Español](privacy/privacy_policy_es.html)
 
+## Termos de Uso
+
+- 🇵🇹 [Português](terms/termos_uso_pt.html)
+- 🇬🇧 [English](terms/termos_uso_en.html)
+- 🇪🇸 [Español](terms/termos_uso_es.html)
+
 ## Contacto
 
 Para qualquer questão sobre privacidade, eliminação de conta ou exercício de direitos LGPD/RGPD: **muchecha@gmail.com**

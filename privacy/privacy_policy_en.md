@@ -1,6 +1,6 @@
 # Privacy Policy — BabyCare+
 
-**Last updated:** 12 September 2026
+**Last updated:** 13 September 2026
 
 This Privacy Policy describes how the **BabyCare+** application ("we", "the app") collects, uses, and protects user information. By installing and using the app, you agree to the practices described in this document.
 
@@ -95,9 +95,10 @@ To exercise any of these rights, send an email to **muchecha@gmail.com** with th
 
 ## 8. Account deletion
 
-You can request deletion of your account:
-1. By emailing **muchecha@gmail.com** with the subject "Delete account", including the account email.
-2. We will confirm deletion within **15 business days**, removing all personal data and activities from the servers.
+You can delete your account in two ways:
+
+1. **In the app:** go to *Settings → Delete account*. Deletion is immediate and permanently removes your account, the babies you registered, activities, reminders, and associated photos. If you own a baby shared with other family members, you must remove those members before you can delete your account — so their shared history isn't wiped without warning.
+2. **By email:** send a message to **muchecha@gmail.com** with the subject "Delete account", including the account email. We will confirm deletion within **15 business days**.
 
 ---
 

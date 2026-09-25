@@ -1,6 +1,6 @@
 # Política de Privacidad — BabyCare+
 
-**Última actualización:** 12 de septiembre de 2026
+**Última actualización:** 13 de septiembre de 2026
 
 Esta Política de Privacidad describe cómo la aplicación **BabyCare+** ("nosotros", "la app") recopila, utiliza y protege la información de los usuarios. Al instalar y utilizar la app, usted acepta las prácticas descritas en este documento.
 
@@ -95,9 +95,10 @@ Para ejercer cualquiera de estos derechos, envíe un email a **muchecha@gmail.co
 
 ## 8. Eliminación de cuenta
 
-Puede solicitar la eliminación de su cuenta:
-1. Enviando un email a **muchecha@gmail.com** con el asunto "Eliminar cuenta", incluyendo el email de la cuenta.
-2. Confirmaremos la eliminación en hasta **15 días hábiles**, eliminando todos los datos personales y actividades de los servidores.
+Puede eliminar su cuenta de dos formas:
+
+1. **Dentro de la app:** vaya a *Ajustes → Eliminar cuenta*. La eliminación es inmediata y borra permanentemente su cuenta, los bebés que registró, actividades, recordatorios y fotos asociadas. Si es dueño de un bebé compartido con otros miembros de la familia, debe eliminarlos antes de poder eliminar la cuenta, para no borrar su historial sin aviso.
+2. **Por email:** enviando un mensaje a **muchecha@gmail.com** con el asunto "Eliminar cuenta", incluyendo el email de la cuenta. Confirmaremos la eliminación en hasta **15 días hábiles**.
 
 ---
 
