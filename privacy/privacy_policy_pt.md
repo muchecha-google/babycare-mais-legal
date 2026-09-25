@@ -97,7 +97,7 @@ Para exercer qualquer destes direitos, envie um email para **muchecha@gmail.com*
 
 Pode eliminar a sua conta de duas formas:
 
-1. **Dentro da app:** aceda a *Definições → Eliminar conta*. A exclusão é imediata e apaga permanentemente a sua conta, os bebés que registou, actividades, lembretes e fotos associadas. Se for dono de um bebé partilhado com outros membros da família, precisa de remover esses membros antes de conseguir eliminar a conta — para não apagar o histórico deles sem aviso.
+1. **Dentro da app:** aceda a *Configurações → Eliminar conta*. A exclusão é imediata e apaga permanentemente a sua conta, os bebés que registou, actividades, lembretes e fotos associadas. Se for dono de um bebé partilhado com outros membros da família, precisa de remover esses membros antes de conseguir eliminar a conta — para não apagar o histórico deles sem aviso.
 2. **Por email:** enviando uma mensagem para **muchecha@gmail.com** com o assunto "Eliminar conta", incluindo o email da conta. Confirmaremos a eliminação em até **15 dias úteis**.
 
 ---
